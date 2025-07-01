@@ -4,7 +4,7 @@
 
 ## 👋 Hello there!
 
-I'm *Arun Nehru S, a passionate **Tech Enthusiast*
+I'm *Arun Nehru S, a passionate **Tech Enthusiast**
 
 
 🌱 Currently learning & teaching *Data Structures and Algorithms, while integrating **AI into my workflow* 🤖  
